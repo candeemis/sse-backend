@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-ts",
+  "name": "sse-backend",
   "version": "0.0.1",
-  "description": "A boilerplate project for NodeJS server with Typescript",
+  "description": "The server for Advanced-SSE blog post",
   "main": "build/index.ts",
   "engines": {
     "node": ">=16.8.0"
