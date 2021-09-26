@@ -1,0 +1,10 @@
+build
+coverage
+docs
+local-env
+mysql-schema
+node_modules
+*.md
+*.json
+*.*ignore
+.npmrc
